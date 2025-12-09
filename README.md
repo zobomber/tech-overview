@@ -74,8 +74,8 @@ PostgreSQL is my primary database in production projects.
 - EF Core & Alembic migrations  
 
 ### Used in:
-- https://insightscentral.asia — research analytics platform  
-- **EduSphere** — platform for teachers and students  
+- https://insightscentral.asia - research analytics platform  
+- **EduSphere** - platform for teachers and students  
 - Various internal systems
 
 ### Example (EduSphere DB design):
@@ -87,7 +87,7 @@ PostgreSQL is my primary database in production projects.
 ---
 
 ## 📊 Kubernetes Skill Rating
-**3 / 5** — confident and experienced with deploying microservices & operating K8s environments.
+**3 / 5** - confident and experienced with deploying microservices & operating K8s environments.
 
 I am continuously growing toward K8s architect-level expertise (advanced networking, operators, cluster design).
 
