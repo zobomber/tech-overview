@@ -97,7 +97,9 @@ I am continuously growing toward K8s architect-level expertise (advanced network
 If you'd like to discuss my experience or projects:
 
 **Email:** bayakhatovz@gmail.com  
+
 **LinkedIn:** https://www.linkedin.com/in/zamir-bayakhatov-9992412b5/
+
 **GitHub:** https://github.com/zobomber  
 
 Thanks for reading!
